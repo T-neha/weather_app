@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/T-neha/weather_app.git/static/css/main.2afcf039.css",
+    "main.js": "/T-neha/weather_app.git/static/js/main.44eb5baa.js",
+    "index.html": "/T-neha/weather_app.git/index.html",
+    "main.2afcf039.css.map": "/T-neha/weather_app.git/static/css/main.2afcf039.css.map",
+    "main.44eb5baa.js.map": "/T-neha/weather_app.git/static/js/main.44eb5baa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2afcf039.css",
+    "static/js/main.44eb5baa.js"
+  ]
+}
