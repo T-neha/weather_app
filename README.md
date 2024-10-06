@@ -3,6 +3,8 @@ Weather Application using React JS
 
 This project is a weather application built using React JS, a popular JavaScript library for building user interfaces. The application allows users to search for weather information for different locations and provides real-time weather data using the OpenWeatherMap API.
 
+Project Url: https://t-neha.github.io/weather_app/
+
 Features
 Location Search: Users can search for weather information by entering the name of a city or location.
 Current Weather: The application displays the current weather conditions, including temperature, humidity, wind speed, and a brief description of the weather.
